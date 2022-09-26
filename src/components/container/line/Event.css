@@ -1,0 +1,9 @@
+.event {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 0 50px;
+  position: relative;
+  top: -100px;
+  margin: 0 50px;
+}
